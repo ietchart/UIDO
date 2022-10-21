@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T12:04:04.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3NV4TGzlrTLD4PqRx-vb" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T12:07:19.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3yis_4nmCbxJe_qAMxo1" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Modelo de datos">
-    <mxGraphModel dx="2359" dy="1494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3698" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -299,8 +299,8 @@
         <mxCell id="6zTSTTlQzJXJBrJj9n_g-25" value="ID_sujeto (PK) (correlativo tras creación)&#xa;ID_Protocolo (FK)&#xa;ID_Paciente (FK)&#xa;N° Screening (comienza completado)&#xa;N° Randomización (comienza en null)&#xa;Estado del paciente" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="6zTSTTlQzJXJBrJj9n_g-24" vertex="1">
           <mxGeometry y="40" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="6zTSTTlQzJXJBrJj9n_g-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;En marcos REDONDOS lo que estamos bastante seguros, en marcos CUADRADOS lo que está en definición&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="-10" width="820" height="140" as="geometry" />
+        <mxCell id="6zTSTTlQzJXJBrJj9n_g-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;En marcos REDONDOS lo que estamos bastante seguros, en marcos CUADRADOS lo que está en definición&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#FF8C4A;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="-70" width="820" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6zTSTTlQzJXJBrJj9n_g-29" value="Protocolo" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="491" width="160" height="180" as="geometry" />
